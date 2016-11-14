@@ -1,0 +1,28 @@
+//page-home {
+//
+//}
+
+.home {
+ 
+    background-color: map-get($colors, secondary);
+ 
+    scroll-content {
+        display: flex !important;
+        justify-content: center;
+    }
+ 
+    ion-list {
+        width: 90%;
+    }
+ 
+    ion-item-sliding {
+        margin-top: 20px;
+        border-radius: 20px;
+    }
+ 
+    ion-item {
+        border: none !important;
+        font-weight: bold !important;
+    }
+ 
+}
