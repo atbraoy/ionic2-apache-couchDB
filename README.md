@@ -1,7 +1,7 @@
 # ionic2-apache-couchDB
-Mobile app for Apache CouchDB using ionic 2. 
-# ionic2-apache-couchDB
 Mobile app for Apache CouchDB using ionic 2
+
+# Instructions:
 
 This code is based on the tutorila from Joshua, special thanks to him, see link below.
 This code is an updated verion of his, it uses ionic -v2.
