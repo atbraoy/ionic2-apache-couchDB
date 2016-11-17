@@ -3,7 +3,7 @@ Mobile app for Apache CouchDB using ionic 2
 
 # Instructions:
 
-This code is based on the tutorila from Joshua, special thanks to him, see link below.
+This code is based on the tutorial from Joshua, special thanks to him, see link below.
 This code is an updated verion of his, it uses ionic -v2.
 To run the couchdb server (I mean to connect to your running couchdb):
 - navigate to '/src/app/todos-server/' and 
